@@ -2,7 +2,6 @@
 
 ## I'm a Software Engeneer
 
-My CV
 
 Tools
 
@@ -16,9 +15,6 @@ Tools
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=flat&logo=Fiddler)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=flat&logo=Telegram)]
-(https://t.me/MaximOKkk)
-[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=flat&logo=Linkedin)]
-(https://www.linkedin.com/in/maksimok)
-[![Facebook](https://img.shields.io/badge/Facebook-090909?style=flat&logo=Facebook)]
-(https://www.facebook.com/maxim.kobyak)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=flat&logo=Telegram)](https://t.me/MaximOKkk)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=flat&logo=Linkedin)](https://www.linkedin.com/in/maksimok)
+[![Facebook](https://img.shields.io/badge/Facebook-090909?style=flat&logo=Facebook)](https://www.facebook.com/maxim.kobyak)

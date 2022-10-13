@@ -1,6 +1,6 @@
 [![Header](https://github.com/kobbra16/kobbra16/blob/main/assets/1.jpg)]()
 
-About me
+## I'm a Software Engeneer
 
 My CV
 

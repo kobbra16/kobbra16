@@ -1,6 +1,6 @@
 [![Header](https://github.com/kobbra16/kobbra16/blob/main/assets/1.jpg)]()
 
-## I'm a Software Engeneer
+## I'm a QA Engeneer 
 
 
 Tools
